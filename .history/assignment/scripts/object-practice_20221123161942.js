@@ -13,7 +13,6 @@ const me = {
   lastName: `Schwartz`,
   hasSiblings: true,
   shoeCount: 7,
-  FavThreeFoods: [chicken marsala, pizza, jalapeno poppers],
 };
 console.log('A little about me:', me);
 
@@ -31,7 +30,7 @@ console.log(fullName);
   - Console.log your first favorite food
   - Console.log your last favorite food 
 */
-console.log()
+
 
 
 /* 4. Change a property of an existing object.
