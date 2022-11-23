@@ -13,7 +13,7 @@ const me = {
   lastName: `Schwartz`,
   hasSiblings: true,
   shoeCount: 7,
-  favThreeFoods: [`chicken marsala`, `pizza`, `jalapeno poppers`],
+  favThreeFoods: [`chicken marsala`, pizza, jalapeno poppers],
 };
 console.log('A little about me:', me);
 
@@ -33,8 +33,6 @@ console.log(fullName);
 */
 console.log(me.favThreeFoods[0]);
 
-console.log(me.favThreeFoods[2]);
-
 
 /* 4. Change a property of an existing object.
   - Console.log your current shoe count.
@@ -42,11 +40,7 @@ console.log(me.favThreeFoods[2]);
   - Set your object's shoeCount to be what it was plus 1
   - Console.log your updated shoe count. 
 */
-console.log(me.shoeCount);
 
-me.shoeCount = 8;
-
-console.log(me.shoeCount);
 
 /* 5. Add a new property to an existing object.
   - Add a 'favoriteColor' to your existing object

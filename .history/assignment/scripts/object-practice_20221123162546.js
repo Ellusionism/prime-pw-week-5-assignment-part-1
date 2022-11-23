@@ -44,9 +44,6 @@ console.log(me.favThreeFoods[2]);
 */
 console.log(me.shoeCount);
 
-me.shoeCount = 8;
-
-console.log(me.shoeCount);
 
 /* 5. Add a new property to an existing object.
   - Add a 'favoriteColor' to your existing object
